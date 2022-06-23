@@ -1,0 +1,18 @@
+{
+  "name": "my-name-stencil",
+  "version": "1.0.0",
+  "description": "A NodeJS module which shows name",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "time",
+    "date"
+  ],
+  "bin": {
+    "date-time-node": "./index.js"
+  },
+  "author": "Gopal<gopalraaga@gmail.com>",
+  "license": "MIT"
+}
