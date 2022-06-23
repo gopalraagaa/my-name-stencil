@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-    getTime: function () {
-        return new Date();
+    getName: function () {
+        return "My Name";
     } 
 };
